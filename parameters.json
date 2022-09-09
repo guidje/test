@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "databaseAccounts_test_sql_v4_name": {
-            "value": null
+            "value": "test-sql-v5"
         },
         "virtualNetworks_test_v4_externalid": {
             "value": null
